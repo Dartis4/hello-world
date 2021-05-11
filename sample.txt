@@ -1,4 +1,8 @@
 Hello my name is Dane,
 Hope you have a good day :)
 * This is a change*
+<<<<<<< HEAD
 ~conflicts of interest~
+=======
+~This should cause an issue~
+>>>>>>> f28e25e4b8c6fb4afeb93b81794962136e074e93
